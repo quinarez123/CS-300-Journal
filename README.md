@@ -88,5 +88,17 @@ Most data structures are well suited for storing data in large amounts but depen
 ### JOURNAL QUESTIONS ###
 
 1. What was the problem you were solving in the projects for this course?
-In this course, the main problem that we were trying to solve is how to 
-3.   
+   For the projects, the problem we were trying to solve was how to     
+   manipulate and make the most out of data structures. Data structures are a great way to store data but we must be able to use that data to work for us.
+   
+2. How did you approach the problem? Consider why data structures are important to understand.
+   The first thing to that we did for the project was consider which data structure we were going to use, as this would change the algorithms that we would have to            implement. Algorithms are not univsersal and are not compatible between different data structures, some algorithms only work on linear structures and some on binary        data structures so it's important to really understand your data structure to choose the most effective algorithm.
+   
+4. How did you overcome any roadblocks you encountered while going through the activities or project?
+   Algorithms in particular can be extrememely convoluted, to the end user a program may execute in milliseconds but an algorithm as a whole can be daunting to understand.
+   Whenever I came across an algorithm I didn't understand I would break it down line by line and try to understand it's smaller parts before trying to understand it as a 
+   whole. Reading a code and writing down what it does helped me understand it far better.
+
+5. How has your work on this project expanded your approach to designing software and developing programs?
+7. How has your work on this project evolved the way you write programs that are maintainable, readable and adaptable?
+   
