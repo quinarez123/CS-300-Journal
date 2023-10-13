@@ -100,5 +100,7 @@ Most data structures are well suited for storing data in large amounts but depen
    whole. Reading a code and writing down what it does helped me understand it far better.
 
 5. How has your work on this project expanded your approach to designing software and developing programs?
-7. How has your work on this project evolved the way you write programs that are maintainable, readable and adaptable?
+   Working on this project has helped me realize how important planning is. Although I have learned new functions that I'm able to utilize in the future, functions are just tools and you need to plan how you are going to use those tools to create an effective program. In the planning stage, using pseudocode is a great way to plan out code while trying to understand what each line of code is by writing it down in plain english. 
+6. How has your work on this project evolved the way you write programs that are maintainable, readable and adaptable?
+   When I just started out writing code in my first class of university, I would write all of my code in the main program. One of the main things I tried to implement in my program is maintainability and adaptability. In this project, I wrote methods outside of the main program and into their own space, this helps with maintaining the code. You want to avoid creating spaghetti code where changing one line of code won't affect or crash your whole program.
    
